@@ -1,0 +1,21 @@
+img.main {
+  float: none;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: 500;
+  font-stretch: semi-expanded;
+}
+.sidebar {
+  float: right;
+  font-family: sans-serif;
+  font-weight: 500;
+  color: tan;
+  background-color: darkred;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
